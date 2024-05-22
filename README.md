@@ -39,4 +39,14 @@ ARQR CashPoint is an innovative system that integrates QR code technology with A
    ````sh
    expo start
 
+Usage
+Run the application on a simulator or a physical device:
+
+For iOS: Use the Expo app from the App Store.
+For Android: Use the Expo app from the Google Play Store.
+Interact with the ARQR CashPoint system:
+
+Scan QR codes using the camera.
+View transaction details in the AR interface.
+Perform secure transactions using the integrated blockchain.
 
