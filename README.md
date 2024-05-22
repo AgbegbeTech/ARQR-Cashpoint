@@ -29,5 +29,14 @@ ARQR CashPoint is an innovative system that integrates QR code technology with A
 2. **Install Dependencies:**
    ````sh
    npm install
-3.**Set up environment variables:**
-    Create a .env file in the root directory and add the following variables:
+3. **Set up environment variables:**
+   **Create a .env file in the root directory and add the following variables:**
+   ````sh
+   SUPABASE_URL=your-supabase-url
+   SUPABASE_ANON_KEY=your-supabase-anon-key
+   DESO_API_KEY=your-deso-api-key
+4. **Start the development server:
+   ````sh
+   expo start
+
+
