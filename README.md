@@ -26,3 +26,8 @@ ARQR CashPoint is an innovative system that integrates QR code technology with A
    ```sh
    git clone https://github.com/yourusername/arqr-cashpoint.git
    cd arqr-cashpoint
+2. **Install Dependencies:**
+   ````sh
+   npm install
+3.**Set up environment variables:**
+    Create a .env file in the root directory and add the following variables:
